@@ -42,7 +42,8 @@ This project uses Webpack module bundler
 To build it run:
 
 ```bash
-  npx webpack
+  npm install
+  npm run build
 ```
 
 Make sure to modify the included webpack.config to target 'web':
