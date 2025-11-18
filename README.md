@@ -6,11 +6,15 @@
     <img src="https://lh3.googleusercontent.com/vqzHBo99ycM8aLl4O8sJFEavfLWtDyJSqGzm9sSRMfIfVdulYNQYvw6Ttuj8_3zNoih75zUt-3D1X6-t7btPm3ck=s800-w800-h500" width="400px">
 </p>
 
-<p align="center"><a href="https://chromewebstore.google.com/detail/windows-alerts-for-photon/kpdpcflkjfhpfihpbcalompdbklegppi">🚀 Download from Chrome Web Store</a></p>
 <hr>
+
 Decided to open source all my previous Chrome extensions. Use the code anyway you want, just give credit.
 
-<h2 id="technologies">🚩 Key Features:</h2>
+<h2 id="releases">💾 Releases</h2>
+
+<p><a href="https://chromewebstore.google.com/detail/windows-alerts-for-photon/kpdpcflkjfhpfihpbcalompdbklegppi">🚀 Download from Chrome Web Store</a></p>
+
+<h2 id="features">🚩 Key Features</h2>
 
 - Shows a Windows OS notification whenever a coin graduates on Photon Memescope.
 - Also displays the current price of Solana right on Photon.
