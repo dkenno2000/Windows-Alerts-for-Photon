@@ -40,7 +40,7 @@ This project uses Webpack module bundler
 - [Webpack](https://webpack.js.org/)
 
 ```bash
-  npm init -y
+  npm init
   npm install --save-dev webpack webpack-cli
 ```
 
