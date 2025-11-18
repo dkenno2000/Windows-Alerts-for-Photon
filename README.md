@@ -23,7 +23,7 @@ Decided to open source all my previous Chrome extensions. Use the code anyway yo
 Uses the simple <b>Notifications Web API</b>b> to push OS notifications. Browser must be allowed to show notifications in the OS settings (Windows has this disabled by default).
 
 ```bash
-new Notification(title, options)
+  new Notification(title, options)
 ```
 
 <h2 id="started">⚙️ Getting started</h2>
@@ -31,19 +31,28 @@ new Notification(title, options)
 
 This project uses Webpack module bundler
 
-- [NodeJS](https://webpack.js.org/)
+- [Webpack](https://webpack.js.org/)
 
 ```bash
-npm install --save-dev webpack
+  npm install --save-dev webpack
 ```
 
 To build it run:
 
 ```bash
-npx webpack
+  npx webpack
 ```
 
-Make sure to modify the included webpack.config to point where your /node/modules/ folder is.
+Make sure to modify the included webpack.config to target 'web':
+
+```bash
+  target: "web", // Ensure it's targeting web for a browser environment
+```
+
+and to point where your /node/modules/ folder is.
+```bash
+  modules: [path.resolve("D:/node_modules"), "node_modules"],
+```
 
 <h3>Installation</h3>
 
