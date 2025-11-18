@@ -8,11 +8,12 @@
 
 <hr>
 
-Decided to open source all my previous Chrome extensions. Use the code anyway you want, just give credit.
+Decided to open source all my previous Chrome extensions. Use the code anyway you want, just give credit.<br>
 
 <h2 id="releases">💾 Releases</h2>
 
-<p><a href="https://chromewebstore.google.com/detail/windows-alerts-for-photon/kpdpcflkjfhpfihpbcalompdbklegppi">🚀 Download from Chrome Web Store</a></p>
+<p>- <a href="https://chromewebstore.google.com/detail/windows-alerts-for-photon/kpdpcflkjfhpfihpbcalompdbklegppi">Download from Chrome Web Store</a></p>
+<p>- <a href="https://github.com/dkenno2000/Windows-Alerts-for-Photon/releases/download/Photon/alerts_for_photon-v1.1.zip">Download the latest release from Github</a></p>
 
 <h2 id="features">🚩 Key Features</h2>
 
