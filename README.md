@@ -38,14 +38,14 @@ This project uses Webpack module bundler
 - [Webpack](https://webpack.js.org/)
 
 ```bash
-  npm install --save-dev webpack
+  npm init -y
+  npm install --save-dev webpack webpack-cli
 ```
 
 To build it run:
 
 ```bash
-  npm install
-  npm run build
+  npx webpack
 ```
 
 Make sure to modify the included webpack.config to target 'web':
