@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"><a href="https://chromewebstore.google.com/detail/windows-alerts-for-photon/kpdpcflkjfhpfihpbcalompdbklegppi">🚀 Download from Chrome Web Store</a></p>
-
+<hr>
 Decided to open source all my previous Chrome extensions. Use the code anyway you want, just give credit.
 
 <h2 id="technologies">🚩 Key Features:</h2>
