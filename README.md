@@ -51,15 +51,15 @@ Make sure to modify the included webpack.config to target 'web':
   target: "web", // Ensure it's targeting web for a browser environment
 ```
 
-and to point where your /node/modules/ folder is.
+Change the path to point where your /node/modules/ folder is:
 ```bash
   modules: [path.resolve("D:/node_modules"), "node_modules"],
 ```
 
 <h3>Installation</h3>
 
-- Install from the Chrome Web Store link above
-- Or install locally: Manage Extensions -> Enable Developer Mode -> Load Unpacked -> Select the unzipped folder
+- Install from the Chrome Web Store: Link above
+- Install locally: Manage Extensions -> Enable Developer Mode -> Load Unpacked -> Select the unzipped folder
 
 <h2 id="contribute">⚠️ License</h2>
 
