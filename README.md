@@ -8,7 +8,9 @@
 
 <hr>
 
-Decided to open source all my previous Chrome extensions. Use the code anyway you want, just give credit.<br>
+Decided to open source all my previous Chrome extensions. Use the code anyway you want, just give credit.
+<br>
+<br>
 
 <h2 id="releases">💾 Releases</h2>
 
