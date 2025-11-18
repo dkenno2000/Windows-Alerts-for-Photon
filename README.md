@@ -20,6 +20,8 @@ Decided to open source all my previous Chrome extensions. Use the code anyway yo
 - Shows a Windows OS notification whenever a coin graduates on Photon Memescope.
 - Also displays the current price of Solana right on Photon.
 
+<br>
+
 Uses the simple <b>Notifications Web API</b> to push OS notifications.
 
 ```bash
