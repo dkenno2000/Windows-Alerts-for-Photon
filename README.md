@@ -2,14 +2,14 @@
 
 <p align="center"><b>Shows a Windows OS notification whenever a coin graduates on Photon Memescope.</b></p>
 
-<p align="center"><a href="https://chromewebstore.google.com/detail/windows-alerts-for-photon/kpdpcflkjfhpfihpbcalompdbklegppi">🚀 Download from Chrome Web Store</a></p>
-
 <p align="center">
     <img src="https://lh3.googleusercontent.com/vqzHBo99ycM8aLl4O8sJFEavfLWtDyJSqGzm9sSRMfIfVdulYNQYvw6Ttuj8_3zNoih75zUt-3D1X6-t7btPm3ck=s800-w800-h500" width="400px">
     <img src="../.github/example.png" alt="Image Example" width="400px">
 </p>
 
-<p align="center">Decided to open source all my previous Chrome extensions. Use the code anyway you want, just give credit.</p>
+<p align="center"><a href="https://chromewebstore.google.com/detail/windows-alerts-for-photon/kpdpcflkjfhpfihpbcalompdbklegppi">🚀 Download from Chrome Web Store</a></p>
+
+Decided to open source all my previous Chrome extensions. Use the code anyway you want, just give credit.
 
 <h2 id="technologies">🚩 Key Features:</h2>
 
